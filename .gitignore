@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+# Decompiled game code, for reference while writing patches. It belongs to the game, so it is never published.
+decompiled/
+tools/**/last_run.txt
+workshop/preview_ideas/

@@ -1,0 +1,58 @@
+[h1]Camera POV[/h1]
+See your park from the inside: walk around it at a guest's eye level, fly over it, see it through a guest's eyes, or ride your own coasters.
+
+[h2]How to use it[/h2]
+[list]
+[*]Press [b]G[/b]. The camera goes down to the spot in the middle of the screen, at a guest's eye level. Press [b]G[/b] or [b]Esc[/b] to go back to the normal camera, which comes back above where you are, with the same zoom and angle it had. It works with the game's camera and with the Perspective Camera mod.
+[*]Hold [b]Alt[/b] to free the cursor and click windows. A small dot marks the middle of the screen, which is where hovering and clicking land.
+[*]With the window of a guest, an employee or a ride open, [b]G[/b] goes into it instead (see below). Its window closes so it doesn't cover the view, and opens again when you go back to the normal camera.
+[/list]
+
+[h2]Walking[/h2]
+[list]
+[*]The mouse looks around, the camera keys ([b]WASD[/b]) walk and [b]Shift[/b] runs. The mouse wheel changes the walking speed.
+[*][b]Space[/b] jumps.
+[*]You walk on the terrain and on paths, including stairs and raised paths, and on built floors, bridges and roofs, and fall off when the ground ends.
+[*]Buildings, scenery, rides, tracks and fences stop you, and you slide along walls. Anything lower than your knees, such as flowers or a low border, is walked through.
+[*][b]Tab[/b] switches collision off and on, for walking through everything.
+[/list]
+
+[h2]Flying[/h2]
+[list]
+[*][b]F[/b] switches between walking and flying. Flying goes through everything.
+[*][b]E[/b] or [b]Space[/b] goes up, [b]Q[/b] or [b]Left Ctrl[/b] goes down, and the mouse wheel changes the speed.
+[*]Press [b]F[/b] again to walk, and you fall down to the ground.
+[/list]
+
+[h2]Through someone's eyes[/h2]
+[list]
+[*]Open the window of a guest or an employee and press [b]G[/b]. The camera goes into their eyes and follows them wherever they go, rides included.
+[*]The mouse turns your head, and the view turns back to where they are heading after a couple of seconds.
+[*]Their body is hidden but keeps its shadow, and what they hold, such as an umbrella, food or a balloon, stays in view.
+[*]The camera keys walk on from there on your own, and [b]F[/b] flies off.
+[*]While walking, click someone at the dot to open their window, then press [b]G[/b] to jump into their eyes.
+[/list]
+
+[h2]On a ride[/h2]
+[list]
+[*]Open the window of a coaster, a boat ride or a flat ride and press [b]G[/b]. You sit in the first seat of the first car, and go along when the ride starts.
+[*]The mouse wheel changes seat within the car. [b]Tab[/b] goes to the next car, and to the next train after the last one. [b]Shift + Tab[/b] goes back.
+[*]Anyone sitting in your seat is hidden. [b]F[/b] flies off the ride.
+[/list]
+
+[h2]Sound[/h2]
+The game places sounds by where they are on screen, which suits the view from above. While Camera POV is on, sounds are placed by their real distance and side instead, so a ride's music gets louder as you walk up to it and stays steady while you spin.
+
+[h2]Settings[/h2]
+Eye height, field of view, mouse sensitivity, inverted vertical look, collision while walking and how long the camera takes to go in and out are in the mod's settings.
+
+[h2]Good to know[/h2]
+[list]
+[*]G, F, Space and the collision key can be changed in the game's controls settings, under Camera POV.
+[*]Collision uses the same shapes the game uses to tell what the mouse points at, so a few objects may stop you a little before you reach them. Tall grass and bushes count as scenery and stop you too, and so does the side of a raised path; press Tab to walk through.
+[*]Go back to the normal camera before using the game's buttons that move the camera, such as a notification's focus button.
+[*]The mod's texts are in English and Brazilian Portuguese, following the game's language.
+[*]The camera is only yours, so other players in a multiplayer game don't need the mod.
+[/list]
+
+Your saves don't depend on this mod, so you can remove it at any time. Harmony is included with the mod, so there is nothing else to install.
