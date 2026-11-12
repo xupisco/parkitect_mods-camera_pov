@@ -18,7 +18,7 @@ namespace camera_pov
 
         public override string getName()
         {
-            return "Camera POV";
+            return "POV Cam";
         }
 
         public override string getDescription()
@@ -28,7 +28,7 @@ namespace camera_pov
 
         public override string getVersionNumber()
         {
-            return "0.10.0";
+            return "0.10.1";
         }
 
         public override string getIdentifier()

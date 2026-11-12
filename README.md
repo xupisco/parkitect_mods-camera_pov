@@ -1,10 +1,10 @@
-# Camera POV
+# POV Cam
 
 A [Parkitect](https://www.themeparkitect.com/) mod to see your park from the inside: walk around it at a guest's eye level, fly over it, see it through a guest's eyes, or ride your own coasters.
 
 [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3835039248)
 
-![Camera POV](workshop/preview.png)
+![POV Cam](workshop/preview.png)
 
 ## How to use it
 
@@ -38,11 +38,11 @@ A [Parkitect](https://www.themeparkitect.com/) mod to see your park from the ins
 
 ### Sound
 
-The game places sounds by where they are on screen, which suits the view from above. While Camera POV is on, sounds are placed by their real distance and side instead.
+The game places sounds by where they are on screen, which suits the view from above. While POV Cam is on, sounds are placed by their real distance and side instead.
 
 ### Settings
 
-Eye height, field of view, mouse sensitivity, inverted vertical look, collision while walking and the transition time are in the mod's settings. All keys can be changed in the game's controls settings, under Camera POV.
+Eye height, field of view, mouse sensitivity, inverted vertical look, collision while walking and the transition time are in the mod's settings. All keys can be changed in the game's controls settings, under POV Cam.
 
 The mod's texts are in English and Brazilian Portuguese, following the game's language. The camera is only yours, so other players in a multiplayer game don't need the mod.
 
